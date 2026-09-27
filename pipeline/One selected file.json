@@ -4,7 +4,7 @@
 		"activities": [
 			{
 				"name": "Get Metadata",
-				"description": "GetMetadata",
+				"description": "Ranjith",
 				"type": "GetMetadata",
 				"dependsOn": [],
 				"policy": {
