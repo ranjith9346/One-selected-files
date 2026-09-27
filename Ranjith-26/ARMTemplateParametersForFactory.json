@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "Ranjith-26"
+		},
+		"LS_destination_accountKey": {
+			"value": ""
+		},
+		"LS_source_accountKey": {
+			"value": ""
+		},
+		"LS_destination_properties_typeProperties_url": {
+			"value": "https://ranjith26.dfs.core.windows.net/"
+		},
+		"LS_source_properties_typeProperties_url": {
+			"value": "https://ranjith26.dfs.core.windows.net/"
+		}
+	}
+}
